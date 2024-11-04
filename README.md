@@ -1,5 +1,8 @@
-## Hi there 👋
+## 夏日狂想曲和冬日狂想曲 👋
 
+github仓库地址：[https://xiaridongri.github.io/](https://xiaridongri.github.io/)
+
+更多acg游戏：[qfafa.com](https://qfafa.com)
 <!--
 **xiaridongri/xiaridongri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
